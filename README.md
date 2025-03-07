@@ -20,3 +20,8 @@ ProjectBloodDB is a database management system built using C# and MySQL, designe
 3. Install required dependencies (via NuGet package manager).
 
 4. Set up the database by configuring the MySQL connection.
+
+Usage
+Run the project in Visual Studio.
+Use the GUI to add, remove, and view donor data.
+Execute SQL queries to interact with the database.
